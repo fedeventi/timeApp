@@ -1,0 +1,15 @@
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\bin\Debug\AppTest.exe.config
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\bin\Debug\AppTest.exe
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\bin\Debug\AppTest.pdb
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.csproj.AssemblyReference.cache
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.csproj.SuggestedBindingRedirects.cache
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.Form1.resources
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.cache
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.exe
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.pdb
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\bin\Debug\Newtonsoft.Json.dll
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\bin\Debug\Newtonsoft.Json.xml
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.csproj.CopyComplete
+D:\Users\fede\Documents\Visual Projects\AppTest\AppTest\obj\Debug\AppTest.Assets.TextBoxTransparent.resources
